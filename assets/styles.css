@@ -85,6 +85,8 @@ nav {
   padding: 10px 30px;
 }
 
+/*news images styling*/
+
 .thumbail-1 {
   background-image: url("/assets/img/old-1.jpg");
   width: 400px;
@@ -95,6 +97,8 @@ nav {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+/*news images styling*/
 
 .thumbail-2 {
   background-image: url("/assets/img/old-2.jpg");
@@ -156,6 +160,8 @@ footer {
   color: white;
   background-color: #ff004e;
 }
+
+/*social column in footer*/
 
 .footer-col-3 {
   text-align: center;
